@@ -8,4 +8,4 @@ Highlights
 - Custom suspension geometry for jump handling and shock absorption  
 - CAD in Fusion 360 | Electronics via Tinkercad
 
-📄 [Read Full Report](./Automobile_ps_kriti_24.pdf)
+[Read Full Report](./Automobile_ps_kriti_24.pdf)
